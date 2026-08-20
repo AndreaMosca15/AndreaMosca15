@@ -37,5 +37,5 @@ AWS Academy Graduate — Cloud Foundations, issued by AWS Training and Certifica
 <p align="center"><i>"Shaving off lap time, shaving off latency — not that different, really."</i></p>
 
 
-<p align="center"><a href="http://andreamosca15.github.io/Formula-Coding/"><i>"more about me"</i></a></p>
+<p align="center"><a href="http://andreamosca15.github.io/Formula-Coding/">"more about me"</a></p>
 
