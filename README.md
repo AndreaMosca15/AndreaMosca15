@@ -6,7 +6,7 @@
 <p align="left">
   🏎️ Ferrari fan | 🎮 Sim racer on iRacing | 🔧 Always taking something apart
 </p>
----
+--
  
 ### 🚀 About me
  
@@ -31,6 +31,6 @@ AWS Academy Graduate — Cloud Foundations**, issued by AWS Training and Certifi
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
  
----
+--
  
 <p align="center"><i>"Shaving off lap time, shaving off latency — not that different, really."</i></p>
