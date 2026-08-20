@@ -21,7 +21,7 @@ When I'm not debugging, I'm probably on iRacing studying the competitive GT3 met
 </a>
 
 
-AWS Academy Graduate — Cloud Foundations**, issued by AWS Training and Certification
+AWS Academy Graduate — Cloud Foundations, issued by AWS Training and Certification
  
 ### 💻 Tech stack
 
